@@ -1,2 +1,0 @@
-# tcc
-# minggu-01
