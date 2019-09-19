@@ -4,4 +4,5 @@
 ![00](gambar/1.PNG)
 
 2. Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada:
+
 ![01](gambar/2.PNG)
