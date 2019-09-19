@@ -17,4 +17,6 @@ A. FORK
       ![00](gambar/login.PNG)
    2. Akses repo yang akan di-fork: https://github.com/ffatina/playground
    3. Pada sisi kanan atas, klik Fork:
-      ![02](gambar/repo1.PNG)
+      ![01](gambar/fork1.PNG)
+   4. Jika sudah berhasil seperti gambar di bawah ini :
+      ![02](gambar/fork2.PNG)
