@@ -21,8 +21,9 @@ Dengan demikian, jangan berganti-ganti remote lokal, sekali dibuat disitu, tetap
 
 Mengubah Isi - Push Tanpa Branching dan Merging
 1. File dihapus
-   ![03](gambar/repo1.PNG)
+   ![03](gambar/hapus.PNG)
 
 2. File diedit
+   ![04](gambar/edit.PNG)
 3. Membuat file / direktori baru
 4. Menghapus direktori
