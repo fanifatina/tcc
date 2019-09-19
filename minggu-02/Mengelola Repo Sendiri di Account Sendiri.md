@@ -11,6 +11,7 @@ Membuat Repo
 Clone Repo
 Clone repo berfungsi untuk menduplikasi remote repo di Github ke komputer lokal.
 Perintah yang digunakan yaitu git clone https://github.com/ffatina/tcc.git
+
 ![02](gambar/clone.PNG)
 
 
