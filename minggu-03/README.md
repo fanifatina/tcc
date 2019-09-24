@@ -10,4 +10,4 @@ Beberapa contoh aplikasi yang sudah ada:
 4. Prezi
 
 Berikut arsitektur dari SaaS :
-![00](gambar/arsitekturSaaS.JPG)
+![00](gambar/arsitekturSaaS.jpg)
