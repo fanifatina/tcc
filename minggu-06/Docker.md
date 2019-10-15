@@ -78,12 +78,16 @@ Pada baris pertama mendefinisikan bahwa kita akan menggunakan base image nginx:a
 Untuk menjalankan app (web static menggunakan nginx) yang perlu dilakukan adalah mem-build Dockerfile menjadi docker-image yang bisa dijalankan oleh Docker CLI dengan perintah docker build -t <repository-name> .
 ![10](gambar/11.PNG)
 
-## Langkah 3
-## Run
 opsi -t webserver-image:v1 digunakan untuk memberikan nama pada docker image dengan webserver-image dan tag docker image dengan v1. Untuk memastikan image yang ada di dalam host komputer jalankan perintah docker images
 ![11](gambar/12.PNG)
 
-## Langkah 4
-## 
+
+## Langkah 3
+## Run
+Docker image yang sudah selesai di build, dapat dijalankan dengan perintah docker run -d -p 80:80 webserver-image:v1.
+![12](gambar/13.PNG)
+
+Setelah docker image sukses dijalankan, webserver akan bisa diakses melalui browser dengan mengakses hostname port 80. Untuk mengetest apakah docker container berjalan gunakan perintah curl docker
+![12](gambar/14.PNG)
 
 
