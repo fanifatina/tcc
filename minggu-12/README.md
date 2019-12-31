@@ -21,7 +21,7 @@ https://www.linode.com/docs/quick-answers/linux/drupal-with-docker-compose/
 
    ![00](gambar/4.PNG)
    
-   ![00](gambar/5.pgn)
+   ![00](gambar/5.png)
 
 	-d artinya di jalankan di belakang background
 
