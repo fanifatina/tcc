@@ -1,7 +1,7 @@
 # Pertemuan 10 Kolaborasi
 
 Clone belajarork terlebih dahulu kemudian masuk di repo tersebut
-![00](gambar/a.PNG)
+![00](gambar/00.PNG)
 
 1. Login ke GitHub dan masuk ke repo fork tersebut, Pilih fork
    ![00](gambar/1.PNG)
